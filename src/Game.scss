@@ -1,0 +1,25 @@
+.Game {
+  color: white;
+  background-color: black;
+  margin: auto 0;
+}
+
+.missile {
+  fill: yellow;
+  stroke: red;
+}
+
+.stream {
+  stroke: red;
+}
+
+.terrain {
+  stroke: lightgreen;
+  stroke-width: 3;
+}
+
+.blast {
+  fill: lightgreen;
+  stroke: yellow;
+}
+
